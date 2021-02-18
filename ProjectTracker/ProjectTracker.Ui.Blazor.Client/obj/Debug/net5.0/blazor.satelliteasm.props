@@ -1,0 +1,29 @@
+﻿<SatelliteAssembly>
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\ar\Csla.resources.dll" Culture="ar" DestinationSubDirectory="ar\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\bs\Csla.resources.dll" Culture="bs" DestinationSubDirectory="bs\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\ca-ES\Csla.resources.dll" Culture="ca-ES" DestinationSubDirectory="ca-ES\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\da\Csla.resources.dll" Culture="da" DestinationSubDirectory="da\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\de\Csla.resources.dll" Culture="de" DestinationSubDirectory="de\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\el\Csla.resources.dll" Culture="el" DestinationSubDirectory="el\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\es-ES\Csla.resources.dll" Culture="es-ES" DestinationSubDirectory="es-ES\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\es\Csla.resources.dll" Culture="es" DestinationSubDirectory="es\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\fr\Csla.resources.dll" Culture="fr" DestinationSubDirectory="fr\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\he-IL\Csla.resources.dll" Culture="he-IL" DestinationSubDirectory="he-IL\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\hr\Csla.resources.dll" Culture="hr" DestinationSubDirectory="hr\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\hu\Csla.resources.dll" Culture="hu" DestinationSubDirectory="hu\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\it\Csla.resources.dll" Culture="it" DestinationSubDirectory="it\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\km-KH\Csla.resources.dll" Culture="km-KH" DestinationSubDirectory="km-KH\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\nl\Csla.resources.dll" Culture="nl" DestinationSubDirectory="nl\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\no\Csla.resources.dll" Culture="no" DestinationSubDirectory="no\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\pt-BR\Csla.resources.dll" Culture="pt-BR" DestinationSubDirectory="pt-BR\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\pt\Csla.resources.dll" Culture="pt" DestinationSubDirectory="pt\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\ro\Csla.resources.dll" Culture="ro" DestinationSubDirectory="ro\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\ru\Csla.resources.dll" Culture="ru" DestinationSubDirectory="ru\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\sr\Csla.resources.dll" Culture="sr" DestinationSubDirectory="sr\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\sv\Csla.resources.dll" Culture="sv" DestinationSubDirectory="sv\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\tr\Csla.resources.dll" Culture="tr" DestinationSubDirectory="tr\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\uk-ua\Csla.resources.dll" Culture="uk-ua" DestinationSubDirectory="uk-ua\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\vi\Csla.resources.dll" Culture="vi" DestinationSubDirectory="vi\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\zh-Hans\Csla.resources.dll" Culture="zh-Hans" DestinationSubDirectory="zh-Hans\" />
+  <Assembly Name="C:\Users\staub\.nuget\packages\csla\5.4.1\lib\net5.0\zh-TW\Csla.resources.dll" Culture="zh-TW" DestinationSubDirectory="zh-TW\" />
+</SatelliteAssembly>

@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>ProjectTracker.BusinessLibrary</AssemblyName>
+    <RootNamespace>ProjectTracker.BusinessLibrary</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ProjectTracker.Dal\ProjectTracker.Dal.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Csla" Version="5.4.1" />
+  </ItemGroup>
+</Project>

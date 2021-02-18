@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Components" Version="5.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="5.0.3" />
+    <PackageReference Include="Csla.Blazor" Version="5.4.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.Authorization" Version="5.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProjectTracker.BusinessLibrary.Netstandard\ProjectTracker.BusinessLibrary.Netstandard.csproj" />
+    <ProjectReference Include="..\ProjectTracker.DalMock\ProjectTracker.DalMock.csproj" />
+    <ProjectReference Include="..\ProjectTracker.Dal\ProjectTracker.Dal.csproj" />
+  </ItemGroup>
+
+</Project>
